@@ -181,3 +181,4 @@ INNER JOIN DEPT D;
 ![output](4-21a.png)
 ![output](4-21b.png)
 
+
