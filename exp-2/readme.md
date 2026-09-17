@@ -328,3 +328,4 @@ HAVING AVG(age) = (
 );
 ```
 ![output](2b-34.png)
+
